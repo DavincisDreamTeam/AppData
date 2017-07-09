@@ -13,15 +13,12 @@ Section/Student Branch: Nueva Granada Militar University
 
 Author: Natalia Ortiz Maldonado / Oscar Alfonso Ochoa Caballero
 
-<IMG SRC="https://github.com/DavincisDreamTeam/Surprise-World-Cards/blob/master/Screen%20Shots/Screenshot_2017-07-06-19-16-21.png?raw=true">
-<IMG SRC="https://github.com/DavincisDreamTeam/Surprise-World-Cards/blob/master/Screen%20Shots/Screenshot_2017-07-06-19-15-58.png?raw=true">
-<IMG SRC="https://github.com/DavincisDreamTeam/Surprise-World-Cards/blob/master/Screen%20Shots/Screenshot_2017-07-06-19-15-58.png?raw=true">
-<IMG SRC="https://github.com/DavincisDreamTeam/Surprise-World-Cards/blob/master/Screen%20Shots/Screenshot_2017-07-06-19-15-42.png?raw=true">
-<IMG SRC="https://github.com/DavincisDreamTeam/Surprise-World-Cards/blob/master/Screen%20Shots/Screenshot_2017-07-06-19-17-37.png?raw=true">
-<IMG SRC="https://github.com/DavincisDreamTeam/Surprise-World-Cards/blob/master/Screen%20Shots/Screenshot_2017-07-06-19-18-26.png?raw=true">
-<IMG SRC="https://github.com/DavincisDreamTeam/Surprise-World-Cards/blob/master/Screen%20Shots/Screenshot_2017-07-06-19-17-13.png?raw=true">
-
-
-
+<IMG SRC="https://github.com/DavincisDreamTeam/AppData/blob/master/Screen%20Shots/Screenshot_2017-07-06-19-15-42.png?raw=true">
+<IMG SRC="https://github.com/DavincisDreamTeam/AppData/blob/master/Screen%20Shots/Screenshot_2017-07-06-19-15-58.png?raw=true">
+<IMG SRC="https://github.com/DavincisDreamTeam/AppData/blob/master/Screen%20Shots/Screenshot_2017-07-06-19-16-21.png?raw=true">
+<IMG SRC="https://github.com/DavincisDreamTeam/AppData/blob/master/Screen%20Shots/Screenshot_2017-07-06-19-16-42.png?raw=true">
+<IMG SRC="https://github.com/DavincisDreamTeam/AppData/blob/master/Screen%20Shots/Screenshot_2017-07-06-19-17-13.png?raw=true">
+<IMG SRC="https://github.com/DavincisDreamTeam/AppData/blob/master/Screen%20Shots/Screenshot_2017-07-06-19-17-37.png?raw=true">
+<IMG SRC="https://github.com/DavincisDreamTeam/AppData/blob/master/Screen%20Shots/Screenshot_2017-07-06-19-18-26.png?raw=true">
 
 (Follow  README.md and include the licence MIT )
