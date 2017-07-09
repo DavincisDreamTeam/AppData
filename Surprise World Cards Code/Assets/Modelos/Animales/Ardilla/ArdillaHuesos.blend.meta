@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 68549e48c92dc9b4ba842c03c90804a5
+timeCreated: 1498234556
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature
+    100004: Bone_003
+    100006: Bone_006
+    100008: Bone_017
+    100010: Bone_018
+    100012: Bone_019
+    100014: Brazo_der
+    100016: Brazo_izq
+    100018: Cabeza
+    100020: cadnav
+    100022: Colaext
+    100024: Colaint
+    100026: Cuello
+    100028: Cuerpo
+    100030: Mano_der
+    100032: Mano_izq
+    100034: Oreja_der
+    100036: Oreja_izq
+    100038: Pie_der
+    100040: Pie_izq
+    100042: Pierna_der
+    100044: Pierna_izq
+    100046: Rodilla_der
+    100048: Rodilla_izq
+    400000: //RootNode
+    400002: Armature
+    400004: Bone_003
+    400006: Bone_006
+    400008: Bone_017
+    400010: Bone_018
+    400012: Bone_019
+    400014: Brazo_der
+    400016: Brazo_izq
+    400018: Cabeza
+    400020: cadnav
+    400022: Colaext
+    400024: Colaint
+    400026: Cuello
+    400028: Cuerpo
+    400030: Mano_der
+    400032: Mano_izq
+    400034: Oreja_der
+    400036: Oreja_izq
+    400038: Pie_der
+    400040: Pie_izq
+    400042: Pierna_der
+    400044: Pierna_izq
+    400046: Rodilla_der
+    400048: Rodilla_izq
+    4300000: cadnav
+    7400000: Default Take
+    7400002: ArmatureAction
+    9500000: //RootNode
+    13700000: cadnav
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ArmatureAction
+      takeName: ArmatureAction
+      firstFrame: 34
+      lastFrame: 227
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Colaint
+        weight: 1
+      - path: Armature/Colaint/Colaext
+        weight: 1
+      - path: Armature/Cuerpo
+        weight: 1
+      - path: Armature/Cuerpo/Bone_003
+        weight: 1
+      - path: Armature/Cuerpo/Bone_003/Brazo_der
+        weight: 1
+      - path: Armature/Cuerpo/Bone_003/Brazo_der/Mano_der
+        weight: 1
+      - path: Armature/Cuerpo/Bone_006
+        weight: 1
+      - path: Armature/Cuerpo/Bone_006/Brazo_izq
+        weight: 1
+      - path: Armature/Cuerpo/Bone_006/Brazo_izq/Mano_izq
+        weight: 1
+      - path: Armature/Cuerpo/Cuello
+        weight: 1
+      - path: Armature/Cuerpo/Cuello/Bone_017
+        weight: 1
+      - path: Armature/Cuerpo/Cuello/Bone_017/Oreja_der
+        weight: 1
+      - path: Armature/Cuerpo/Cuello/Bone_018
+        weight: 1
+      - path: Armature/Cuerpo/Cuello/Bone_018/Bone_019
+        weight: 1
+      - path: Armature/Cuerpo/Cuello/Bone_018/Oreja_izq
+        weight: 1
+      - path: Armature/Cuerpo/Cuello/Cabeza
+        weight: 1
+      - path: Armature/Pierna_der
+        weight: 1
+      - path: Armature/Pierna_der/Rodilla_der
+        weight: 1
+      - path: Armature/Pierna_der/Rodilla_der/Pie_der
+        weight: 1
+      - path: Armature/Pierna_izq
+        weight: 1
+      - path: Armature/Pierna_izq/Rodilla_izq
+        weight: 1
+      - path: Armature/Pierna_izq/Rodilla_izq/Pie_izq
+        weight: 1
+      - path: cadnav
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 1
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

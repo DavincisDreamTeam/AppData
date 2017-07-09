@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: b86fa30f7b3b87a49a038efd84a90b9e
+timeCreated: 1498235029
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Box01
+    100004: Cabeza
+    100006: Cola
+    100008: //RootNode
+    100010: Cuerpo
+    100012: Oreja_der
+    100014: Oreja_izq
+    100016: Pie_1
+    100018: Pie_2
+    100020: Pie_3
+    100022: Pie_4
+    100024: Pierna_1
+    100026: Pierna_2
+    100028: Pierna_3
+    100030: Pierna_4
+    100032: Rodilla_3
+    100034: Rodilla_4
+    400000: Armature
+    400002: Box01
+    400004: Cabeza
+    400006: Cola
+    400008: //RootNode
+    400010: Cuerpo
+    400012: Oreja_der
+    400014: Oreja_izq
+    400016: Pie_1
+    400018: Pie_2
+    400020: Pie_3
+    400022: Pie_4
+    400024: Pierna_1
+    400026: Pierna_2
+    400028: Pierna_3
+    400030: Pierna_4
+    400032: Rodilla_3
+    400034: Rodilla_4
+    4300000: Box01
+    7400000: Default Take
+    7400002: ArmatureAction
+    9500000: //RootNode
+    13700000: Box01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 499
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Cola
+        weight: 1
+      - path: Armature/Cuerpo
+        weight: 1
+      - path: Armature/Cuerpo/Cabeza
+        weight: 1
+      - path: Armature/Cuerpo/Cabeza/Oreja_der
+        weight: 1
+      - path: Armature/Cuerpo/Cabeza/Oreja_izq
+        weight: 1
+      - path: Armature/Pierna_1
+        weight: 1
+      - path: Armature/Pierna_1/Pie_1
+        weight: 1
+      - path: Armature/Pierna_2
+        weight: 1
+      - path: Armature/Pierna_2/Pie_2
+        weight: 1
+      - path: Armature/Pierna_3
+        weight: 1
+      - path: Armature/Pierna_3/Rodilla_3
+        weight: 1
+      - path: Armature/Pierna_3/Rodilla_3/Pie_3
+        weight: 1
+      - path: Armature/Pierna_4
+        weight: 1
+      - path: Armature/Pierna_4/Rodilla_4
+        weight: 1
+      - path: Armature/Pierna_4/Rodilla_4/Pie_4
+        weight: 1
+      - path: Box01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 1
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: ebfbc6260be114e4e8daf8f0fc5f7b94
+timeCreated: 1498234764
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone_011
+    100004: Bone_013
+    100006: Bone_015
+    100008: //RootNode
+    100010: Cabeza
+    100012: Cola
+    100014: crin
+    100016: Cuello
+    100018: Cuerpo
+    100020: Object50
+    100022: Oreja_der
+    100024: Oreja_izq
+    100026: Pie1
+    100028: Pie2
+    100030: Pie3
+    100032: Pie4
+    100034: Pierna1
+    100036: Pierna2
+    100038: Pierna3
+    100040: Pierna4
+    100042: Tobillo2
+    400000: Armature
+    400002: Bone_011
+    400004: Bone_013
+    400006: Bone_015
+    400008: //RootNode
+    400010: Cabeza
+    400012: Cola
+    400014: crin
+    400016: Cuello
+    400018: Cuerpo
+    400020: Object50
+    400022: Oreja_der
+    400024: Oreja_izq
+    400026: Pie1
+    400028: Pie2
+    400030: Pie3
+    400032: Pie4
+    400034: Pierna1
+    400036: Pierna2
+    400038: Pierna3
+    400040: Pierna4
+    400042: Tobillo2
+    4300000: Object50
+    7400000: Default Take
+    7400002: ArmatureAction_001
+    9500000: //RootNode
+    13700000: Object50
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ArmatureAction_001
+      takeName: ArmatureAction_001
+      firstFrame: 0
+      lastFrame: 790
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/crin
+        weight: 1
+      - path: Armature/Cuerpo
+        weight: 1
+      - path: Armature/Cuerpo/Cola
+        weight: 1
+      - path: Armature/Cuerpo/Cuello
+        weight: 1
+      - path: Armature/Cuerpo/Cuello/Bone_013
+        weight: 1
+      - path: Armature/Cuerpo/Cuello/Bone_013/Oreja_der
+        weight: 1
+      - path: Armature/Cuerpo/Cuello/Bone_015
+        weight: 1
+      - path: Armature/Cuerpo/Cuello/Bone_015/Oreja_izq
+        weight: 1
+      - path: Armature/Cuerpo/Cuello/Cabeza
+        weight: 1
+      - path: Armature/Pierna1
+        weight: 1
+      - path: Armature/Pierna1/Pie1
+        weight: 1
+      - path: Armature/Pierna2
+        weight: 1
+      - path: Armature/Pierna2/Pie2
+        weight: 1
+      - path: Armature/Pierna2/Pie2/Tobillo2
+        weight: 1
+      - path: Armature/Pierna3
+        weight: 1
+      - path: Armature/Pierna3/Pie3
+        weight: 1
+      - path: Armature/Pierna4
+        weight: 1
+      - path: Armature/Pierna4/Bone_011
+        weight: 1
+      - path: Armature/Pierna4/Pie4
+        weight: 1
+      - path: Object50
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 1
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
