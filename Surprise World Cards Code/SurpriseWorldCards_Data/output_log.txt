@@ -1,0 +1,1949 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) HD Graphics (ID=0x46)
+    Vendor:   Intel
+    VRAM:     944 MB
+    Driver:   8.15.10.2900
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Oscar\Desktop\SURPRISE WORLD CARDS ARCHIVOS DEFINITIVOS\SurpriseWorldCards (1)\SurpriseWorldCards_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Oscar\Desktop\SURPRISE WORLD CARDS ARCHIVOS DEFINITIVOS\SurpriseWorldCards (1)\SurpriseWorldCards_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Oscar\Desktop\SURPRISE WORLD CARDS ARCHIVOS DEFINITIVOS\SurpriseWorldCards (1)\SurpriseWorldCards_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Oscar\Desktop\SURPRISE WORLD CARDS ARCHIVOS DEFINITIVOS\SurpriseWorldCards (1)\SurpriseWorldCards_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Oscar\Desktop\SURPRISE WORLD CARDS ARCHIVOS DEFINITIVOS\SurpriseWorldCards (1)\SurpriseWorldCards_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Oscar\Desktop\SURPRISE WORLD CARDS ARCHIVOS DEFINITIVOS\SurpriseWorldCards (1)\SurpriseWorldCards_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Oscar\Desktop\SURPRISE WORLD CARDS ARCHIVOS DEFINITIVOS\SurpriseWorldCards (1)\SurpriseWorldCards_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Oscar\Desktop\SURPRISE WORLD CARDS ARCHIVOS DEFINITIVOS\SurpriseWorldCards (1)\SurpriseWorldCards_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Oscar\Desktop\SURPRISE WORLD CARDS ARCHIVOS DEFINITIVOS\SurpriseWorldCards (1)\SurpriseWorldCards_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Oscar\Desktop\SURPRISE WORLD CARDS ARCHIVOS DEFINITIVOS\SurpriseWorldCards (1)\SurpriseWorldCards_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Oscar\Desktop\SURPRISE WORLD CARDS ARCHIVOS DEFINITIVOS\SurpriseWorldCards (1)\SurpriseWorldCards_Data\Managed\Vuforia.UnityExtensions.dll (this message is harmless)
+Loading C:\Users\Oscar\Desktop\SURPRISE WORLD CARDS ARCHIVOS DEFINITIVOS\SurpriseWorldCards (1)\SurpriseWorldCards_Data\Managed\Vuforia.UnityExtensions.dll into Unity Child Domain
+- Completed reload, in  0.289 seconds
+Platform assembly: C:\Users\Oscar\Desktop\SURPRISE WORLD CARDS ARCHIVOS DEFINITIVOS\SurpriseWorldCards (1)\SurpriseWorldCards_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Oscar\Desktop\SURPRISE WORLD CARDS ARCHIVOS DEFINITIVOS\SurpriseWorldCards (1)\SurpriseWorldCards_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on VuforiaAbstractBehaviour
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on VuforiaBehaviour
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.699723 ms
+Vuforia initialization successful
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: de0 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.662119 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 365.
+Total: 0.389944 ms (FindLiveObjects: 0.044383 ms CreateObjectMapping: 0.027626 ms MarkObjects: 0.296647 ms  DeleteObjects: 0.020380 ms)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+13
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+13
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+17
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+17
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+18
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+18
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+19
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+21
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+21
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+21
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+22
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+22
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+23
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+25
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+25
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+26
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+26
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+27
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+28
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+29
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+29
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+30
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+31
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+32
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+32
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+33
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+33
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+34
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+34
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+36
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+36
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+37
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+37
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+38
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+38
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+40
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+40
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+41
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+41
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+42
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+44
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+44
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+44
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+45
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+45
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+46
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+48
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+48
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+48
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+49
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+49
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+50
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+51
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+52
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+52
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+53
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+55
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+55
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+56
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+56
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+57
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+57
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+59
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+59
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+60
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+60
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+61
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+61
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+63
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+63
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+64
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+65
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+67
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+67
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+67
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+68
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+68
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+69
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+71
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+71
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+71
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+72
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+72
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+73
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+74
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+75
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+75
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+76
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+77
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+78
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+78
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+79
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+79
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+80
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+80
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+82
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+82
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+83
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+83
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+84
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+84
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+86
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+86
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+87
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+87
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+88
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+90
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+90
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+91
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+91
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+92
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+94
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+94
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+94
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+95
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+95
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+96
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+97
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+98
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+98
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+99
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.245467 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 377.
+Total: 0.431611 ms (FindLiveObjects: 0.041666 ms CreateObjectMapping: 0.028079 ms MarkObjects: 0.326991 ms  DeleteObjects: 0.033061 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.395829 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 0.396285 ms (FindLiveObjects: 0.046648 ms CreateObjectMapping: 0.028079 ms MarkObjects: 0.285778 ms  DeleteObjects: 0.034873 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.437498 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 0.408513 ms (FindLiveObjects: 0.059329 ms CreateObjectMapping: 0.026720 ms MarkObjects: 0.298006 ms  DeleteObjects: 0.022644 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.476447 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 0.380886 ms (FindLiveObjects: 0.046195 ms CreateObjectMapping: 0.027173 ms MarkObjects: 0.283966 ms  DeleteObjects: 0.022644 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.484147 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 0.374998 ms (FindLiveObjects: 0.043025 ms CreateObjectMapping: 0.027173 ms MarkObjects: 0.281702 ms  DeleteObjects: 0.021739 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.440669 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 0.395379 ms (FindLiveObjects: 0.045289 ms CreateObjectMapping: 0.027173 ms MarkObjects: 0.298459 ms  DeleteObjects: 0.022644 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.479165 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 0.380886 ms (FindLiveObjects: 0.045289 ms CreateObjectMapping: 0.029438 ms MarkObjects: 0.282607 ms  DeleteObjects: 0.022644 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.532607 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 0.372281 ms (FindLiveObjects: 0.043025 ms CreateObjectMapping: 0.026720 ms MarkObjects: 0.280796 ms  DeleteObjects: 0.021286 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.484600 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 0.391756 ms (FindLiveObjects: 0.046195 ms CreateObjectMapping: 0.026720 ms MarkObjects: 0.294836 ms  DeleteObjects: 0.023097 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.453350 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 377.
+Total: 0.416212 ms (FindLiveObjects: 0.039854 ms CreateObjectMapping: 0.027626 ms MarkObjects: 0.325633 ms  DeleteObjects: 0.022191 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.740487 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 8015.
+Total: 2.858234 ms (FindLiveObjects: 0.726900 ms CreateObjectMapping: 0.211955 ms MarkObjects: 1.859596 ms  DeleteObjects: 0.058423 ms)
+
+Trackable Ballena lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Libelula lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Mosca lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Hormiga lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Lobo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable CaballodeMar lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Tortuga lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Gato lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable OsoPardo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Lancha lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Helicoptero lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Medusa lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Jirafa lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Delfin lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Avion lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Tigre lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Guacamaya lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Canguro lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Manati lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable OsoPolar lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Mantaraya lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Pollo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Escorpion lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Oveja lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable OsoPanda lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Paloma lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Venado lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Flamenco lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Taxi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Camaleon lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Vaca lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Pulpo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Perro lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Pinguino lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Tiburon lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Cocodrilo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Cienpies lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Cobra lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Murcielago lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Elefante lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Tren lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Camello lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Pato lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Cerdo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not initialize the tracker.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetHint
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetHint
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetHint
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dataset SurpriseWorldCards could not be loaded and cannot be activated.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StartVuforia
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Creating a Mono Camera Configuration (Check for reflection)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Requested Focus mode FOCUS_MODE_CONTINUOUSAUTO successfully.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Autofocus set
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Mariposa lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Conejo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Leon lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Colibri lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Sapo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Aguila lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Gato lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Chimpance lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Bicicleta lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Hipopotamo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Cisne lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Armadillo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Cebra lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Grillo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Cabra lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Avestruz lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Gorila lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Moto lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Rinoceronte lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Leopardo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Escarabajo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Buho lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Carro lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Tucan lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Zorro lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Cangrejo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Ardilla lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Caracol lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Caballo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Arana lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Mariquita lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Bus lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+Trackable Oveja lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Delfin lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Vaca lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Libelula lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Tigre lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Caballo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Colibri lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Tren lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Tiburon lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Chimpance lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Gato lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Cobra lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Elefante lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Buho lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Bicicleta lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Medusa lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Sapo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable CaballodeMar lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Cangrejo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Cebra lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Flamenco lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Conejo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Guacamaya lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Armadillo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Mariquita lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Tucan lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Carro lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Avestruz lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Grillo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Cocodrilo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Leopardo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable OsoPolar lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Murcielago lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Venado lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Caracol lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Lobo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Pollo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable OsoPardo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Helicoptero lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Taxi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Manati lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Moto lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Gorila lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+StopVuforia
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable Lancha lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Mosca lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Arana lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Cerdo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Hormiga lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Mantaraya lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Escorpion lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Cisne lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Canguro lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Paloma lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Camello lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Hipopotamo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Pulpo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Avion lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Mariposa lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Pinguino lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Camaleon lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Aguila lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Ballena lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Leon lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Ardilla lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Cabra lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Jirafa lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Tortuga lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable OsoPanda lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Escarabajo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Perro lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Bus lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Cienpies lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Pato lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Zorro lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Gato lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable Rinoceronte lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[Text] () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackingLost () [0x00000] in <filename unknown>:0 
+  at Vuforia.DefaultTrackableEventHandler.OnTrackableStateChanged (Status previousStatus, Status newStatus) [0x00000] in <filename unknown>:0 
+  at Vuforia.TrackableBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 77.883850 ms
+
+Unloading 1534 unused Assets to reduce memory usage. Loaded Objects now: 409.
+Total: 43.666550 ms (FindLiveObjects: 0.191122 ms CreateObjectMapping: 0.144474 ms MarkObjects: 0.673911 ms  DeleteObjects: 42.656136 ms)
+
